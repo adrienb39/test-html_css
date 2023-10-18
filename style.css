@@ -19,3 +19,7 @@ html, body {
 .title2-1 {
     font-weight: normal;
 }
+
+.image {
+    width: 20px;
+}
